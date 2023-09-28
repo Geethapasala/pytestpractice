@@ -1,16 +1,34 @@
-2023-09-28 16:33:22,294 - conftest - INFO - Launching the CHROME Browser
-2023-09-28 16:33:22,297 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
-2023-09-28 16:33:35,381 - signin_page - INFO - clicked on cross button
-2023-09-28 16:33:35,501 - search_page - INFO - Searching for: laptop
-2023-09-28 16:33:48,658 - search_page - INFO - Selecting the brand as: ASUS
-2023-09-28 16:34:04,316 - search_page - INFO - Sorting the item according to Newest First category: 
-2023-09-28 16:34:10,823 - cart_page - INFO - Adding item to cart
-2023-09-28 16:34:22,908 - cart_page - INFO - Removing item from cart
-2023-09-28 16:34:33,239 - conftest - INFO - Testcase 'Test_Search_Laptop' has ended.
-2023-09-28 16:34:38,020 - conftest - INFO - Launching the EDGE Browser
-2023-09-28 16:34:38,022 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
-2023-09-28 16:34:51,325 - signin_page - INFO - clicked on cross button
-2023-09-28 16:34:51,445 - search_page - INFO - Searching for: laptop
-2023-09-28 16:35:04,204 - search_page - INFO - Selecting the brand as: ASUS
-2023-09-28 16:35:19,841 - search_page - INFO - Sorting the item according to Newest First category: 
-2023-09-28 16:35:26,415 - cart_page - INFO - Adding item to cart
+2023-09-28 17:08:17,747 - conftest - INFO - Launching the CHROME Browser
+2023-09-28 17:08:17,748 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
+2023-09-28 17:08:30,250 - signin_page - INFO - clicked on cross button
+2023-09-28 17:08:30,310 - search_page - INFO - Searching for: laptop
+2023-09-28 17:08:44,564 - search_page - INFO - Selecting the brand as: ASUS
+2023-09-28 17:08:59,928 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 17:09:06,131 - cart_page - INFO - Adding item to cart
+2023-09-28 17:09:17,346 - cart_page - INFO - Removing item from cart
+2023-09-28 17:09:27,540 - conftest - INFO - Testcase 'Test_Search_Laptop' has ended.
+2023-09-28 17:09:31,190 - conftest - INFO - Launching the EDGE Browser
+2023-09-28 17:09:31,191 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
+2023-09-28 17:09:43,657 - signin_page - INFO - clicked on cross button
+2023-09-28 17:09:43,722 - search_page - INFO - Searching for: laptop
+2023-09-28 17:09:55,608 - search_page - INFO - Selecting the brand as: ASUS
+2023-09-28 17:10:10,990 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 17:10:17,173 - cart_page - INFO - Adding item to cart
+2023-09-28 17:10:28,645 - cart_page - INFO - Removing item from cart
+2023-09-28 17:10:38,837 - conftest - INFO - Testcase 'Test_Search_Laptop' has ended.
+2023-09-28 17:10:42,671 - conftest - INFO - Launching the CHROME Browser
+2023-09-28 17:10:42,671 - conftest - INFO - Testcase 'Test_Search_Mobile' has started.
+2023-09-28 17:10:54,833 - signin_page - INFO - clicked on cross button
+2023-09-28 17:10:54,897 - search_page - INFO - Searching for: mobile
+2023-09-28 17:11:07,498 - search_page - INFO - Selecting the brand as: SAMSUNG
+2023-09-28 17:11:17,696 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 17:14:21,588 - conftest - INFO - Screenshot saved as .\screenshots\test_search_mobile[chrome].png
+2023-09-28 17:14:25,304 - conftest - INFO - Launching the EDGE Browser
+2023-09-28 17:14:25,304 - conftest - INFO - Testcase 'Test_Search_Mobile' has started.
+2023-09-28 17:14:37,418 - signin_page - INFO - clicked on cross button
+2023-09-28 17:14:37,487 - search_page - INFO - Searching for: mobile
+2023-09-28 17:14:49,818 - search_page - INFO - Selecting the brand as: SAMSUNG
+2023-09-28 17:15:00,094 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 17:15:06,273 - cart_page - INFO - Adding item to cart
+2023-09-28 17:15:17,631 - cart_page - INFO - Removing item from cart
+2023-09-28 17:15:27,894 - conftest - INFO - Testcase 'Test_Search_Mobile' has ended.
