@@ -1,0 +1,16 @@
+2023-09-28 16:33:22,294 - conftest - INFO - Launching the CHROME Browser
+2023-09-28 16:33:22,297 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
+2023-09-28 16:33:35,381 - signin_page - INFO - clicked on cross button
+2023-09-28 16:33:35,501 - search_page - INFO - Searching for: laptop
+2023-09-28 16:33:48,658 - search_page - INFO - Selecting the brand as: ASUS
+2023-09-28 16:34:04,316 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 16:34:10,823 - cart_page - INFO - Adding item to cart
+2023-09-28 16:34:22,908 - cart_page - INFO - Removing item from cart
+2023-09-28 16:34:33,239 - conftest - INFO - Testcase 'Test_Search_Laptop' has ended.
+2023-09-28 16:34:38,020 - conftest - INFO - Launching the EDGE Browser
+2023-09-28 16:34:38,022 - conftest - INFO - Testcase 'Test_Search_Laptop' has started.
+2023-09-28 16:34:51,325 - signin_page - INFO - clicked on cross button
+2023-09-28 16:34:51,445 - search_page - INFO - Searching for: laptop
+2023-09-28 16:35:04,204 - search_page - INFO - Selecting the brand as: ASUS
+2023-09-28 16:35:19,841 - search_page - INFO - Sorting the item according to Newest First category: 
+2023-09-28 16:35:26,415 - cart_page - INFO - Adding item to cart
